@@ -36,3 +36,21 @@ horário, código, tratamentos e resultados da consulta.<br><br>
 <h1>Especialidades</h1><br>
 Em especialidades podemos fazer o cadastro de nossos profissionais com o código
 CRM e o nome da Especialidade que ele atua.<br><br>
+
+![image](https://user-images.githubusercontent.com/48594322/136044153-55187cc9-bec1-47e0-885f-041e1ef33527.png)<br>
+
+<h1>Médicos</h1><br>
+Nesta tela cadastramos os nossos profissionais com Nome, CRM, Endereço, Telefone.<br><br>
+![image](https://user-images.githubusercontent.com/48594322/136044413-92c7eb4f-b0f2-4d68-bab4-173803b783be.png)<br>
+
+<h1>Pacientes</h1><br>
+Aqui é aonde cadastramos nossos pacientes com nome, telefone, endereço, data
+nascimento e Profissão.<br><br>
+
+![image](https://user-images.githubusercontent.com/48594322/136044614-72639b17-6319-405f-9836-afda385c5a41.png)<br>
+
+<h1>Plano Saúde</h1><br>
+Na página plano de saúde cadastramos novos planos e convênios com CNPJ, Razão
+Social, Endereço e Telefone.<br><br>
+![image](https://user-images.githubusercontent.com/48594322/136044717-47c6da76-ee14-42dd-a2d0-60a66303cdd0.png)
+
