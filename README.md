@@ -23,4 +23,10 @@ Especialidades, Médicos, Pacientes, Plano de Saúde.<br>
 ![image](https://user-images.githubusercontent.com/48594322/136038366-9055816a-cd07-4370-9665-fe54c7e57232.png)<br>
 
 <h1>Atendimentos</h1><br>
-Nesta tela temos Dias da Semana e Horários Livres, para agendamento de consultas.
+Nesta tela temos Dias da Semana e Horários Livres, para agendamento de consultas.<br><br>
+
+![image](https://user-images.githubusercontent.com/48594322/136039053-ab4f99c7-a4d5-4198-9593-b425dccf48d4.png)<br>
+
+<h1>Consultas</h1><br>
+Depois de gerar o atendimento temos a tela de consulta onde cadastramos a data e
+horário, código, tratamentos e resultados da consulta.<br><br>
