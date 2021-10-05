@@ -41,6 +41,7 @@ CRM e o nome da Especialidade que ele atua.<br><br>
 
 <h1>Médicos</h1><br>
 Nesta tela cadastramos os nossos profissionais com Nome, CRM, Endereço, Telefone.<br><br>
+
 ![image](https://user-images.githubusercontent.com/48594322/136044413-92c7eb4f-b0f2-4d68-bab4-173803b783be.png)<br>
 
 <h1>Pacientes</h1><br>
@@ -52,5 +53,7 @@ nascimento e Profissão.<br><br>
 <h1>Plano Saúde</h1><br>
 Na página plano de saúde cadastramos novos planos e convênios com CNPJ, Razão
 Social, Endereço e Telefone.<br><br>
+
 ![image](https://user-images.githubusercontent.com/48594322/136044717-47c6da76-ee14-42dd-a2d0-60a66303cdd0.png)
+
 
