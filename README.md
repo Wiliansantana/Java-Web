@@ -15,7 +15,12 @@ objetos.
 
 ![image](https://user-images.githubusercontent.com/48594322/136036670-73da1506-3f7f-4a8a-ada1-66106326ab14.png)
 
-Home
+<h1>Home</h1><br>
 Nossa tela inicial apresenta a Clínica e conta um pouco do que ela oferece.
 E também contendo acesso para as outras páginas: Atendimentos, Consultas,
-Especialidades, Médicos, Pacientes, Plano de Saúde.
+Especialidades, Médicos, Pacientes, Plano de Saúde.<br>
+
+![image](https://user-images.githubusercontent.com/48594322/136038366-9055816a-cd07-4370-9665-fe54c7e57232.png)<br>
+
+<h1>Atendimentos</h1><br>
+Nesta tela temos Dias da Semana e Horários Livres, para agendamento de consultas.
