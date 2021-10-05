@@ -13,4 +13,9 @@ representação estática utilizada na área da programação para descrever a e
 um sistema, apresentando suas classes, atributos, operações e as relações entre os
 objetos.
 
+![image](https://user-images.githubusercontent.com/48594322/136036670-73da1506-3f7f-4a8a-ada1-66106326ab14.png)
 
+Home
+Nossa tela inicial apresenta a Clínica e conta um pouco do que ela oferece.
+E também contendo acesso para as outras páginas: Atendimentos, Consultas,
+Especialidades, Médicos, Pacientes, Plano de Saúde.
