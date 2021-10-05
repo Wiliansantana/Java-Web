@@ -30,3 +30,9 @@ Nesta tela temos Dias da Semana e Horários Livres, para agendamento de consulta
 <h1>Consultas</h1><br>
 Depois de gerar o atendimento temos a tela de consulta onde cadastramos a data e
 horário, código, tratamentos e resultados da consulta.<br><br>
+
+![image](https://user-images.githubusercontent.com/48594322/136041973-0f88f9eb-0f54-40b5-bbeb-350b946c5204.png)<br>
+
+<h1>Especialidades</h1><br>
+Em especialidades podemos fazer o cadastro de nossos profissionais com o código
+CRM e o nome da Especialidade que ele atua.<br><br>
